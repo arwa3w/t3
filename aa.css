@@ -1,0 +1,84 @@
+.a{
+    background-color: rgb(125, 123, 123);
+    height: 40px;
+    width: 100%;
+}
+.p{
+    padding: 10px;
+}
+.s{
+    background-color: rgb(45, 45, 45);
+    width: 100%;
+    height: 500px;
+}
+/* four div  */
+.s .d{
+    display: inline-block;
+    background-color: rgb(250, 218, 178);
+    width: 250px;
+    height: 400px;
+    margin: 47px 0px 47px 60px;
+
+}
+/* div img */
+.s .d .dd{
+    background-image: url(images.jpg);
+    border-radius: 50%;
+    margin: 20px 49px;
+    width: 150px;
+    height: 150px;
+}
+.s .d .df{
+    background-image: url(df.jpg);
+    border-radius: 50%;
+    margin: 20px 49px;
+    width: 150px;
+    height: 150px;
+}
+.s .d .ds{
+    background-image: url(hf.jpg);
+    border-radius: 50%;
+    margin: 20px 49px;
+    width: 150px;
+    height: 150px;
+}
+.s .d .dn{
+    background-image: url(ff.jpg);
+    border-radius: 50%;
+    margin: 20px 49px;
+    width: 150px;
+    height: 150px;
+}
+
+.s .d .k{
+    padding: 0px 108px;
+    margin: -10px 0px 0px 0px;
+
+}
+.s .d .c{
+    padding: 0px 20px;
+}
+.e{
+    width: 100%;
+    height: 500px;
+    background-image: url(mm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.e .g{
+    color: rgb(209, 124, 63);
+    margin: 10px 550px;
+}
+.hh{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+}
+.hh .j {
+    font-family: Brush Script MT;
+    font-size: 20px;
+    margin:auto;
+    padding: 25px 550px;
+    color: rgb(209, 124, 63);
+
+}
